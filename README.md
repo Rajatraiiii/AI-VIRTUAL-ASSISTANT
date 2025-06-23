@@ -11,10 +11,15 @@ information, and providing vocal responses.
 ✨ Features
 
 🎙️ Voice recognition using speech_recognition
+
 🗣️ Text-to-speech responses with pyttsx3
+
 📊 Simple and clean GUI built with Tkinter
+
 📂 Can open local files, applications, or websites
+
 🔎 Fetches information from the web
+
 🖥️ Cross-platform support (Windows/Linux)
 
 
